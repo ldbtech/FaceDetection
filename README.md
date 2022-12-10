@@ -1,4 +1,4 @@
-# Face
+# Face ALL COPYRIGHT RESERVE. 
 **CSE 473/573 Face Detection and Recognition Project.**
 #### <font color=red>You can only use opencv 4.5.4 for this project.</font>
 
@@ -23,13 +23,3 @@ python task1.py --input_path test_folder/images --output ./result_task1.json
 ```bash
 python task2.py --input_path faceCluster_5 --num_cluster 5
 ```
-
-**Pack your submission**
-Note that when packing your submission, the script would run your code before packing.
-```bash
-sh pack_submission.sh <YourUBITName>
-```
-Change **<YourUBITName>** with your UBIT name.
-The resulting zip file should be named **"submission\_<YourUBITName>.zip"**, and it should contain 3 files, named **"result_task1.json"**, **"result_task2.json,"**, and **"UB\_Face.py"**. If not, there is something wrong with your code/filename, please go back and check.
-
-You should only submit the zip file.
